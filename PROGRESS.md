@@ -1,4 +1,4 @@
-- [x] [preface](./chapter_preface/index)
+- [ ] [preface](./chapter_preface/index)
 - [ ] [installation](./chapter_installation/index)
 - [ ] [notation](./chapter_notation/index)
 - [ ] [introduction](./chapter_introduction/index)
