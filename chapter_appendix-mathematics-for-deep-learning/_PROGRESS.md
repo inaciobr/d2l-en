@@ -6,7 +6,7 @@
 - [ ] [integral-calculus](./integral-calculus.md)
 - [ ] [random-variables](./random-variables.md)
 - [ ] [maximum-likelihood](./maximum-likelihood.md)
-- [ ] [distributions](./distributions.md)
+- [x] [distributions](./distributions.md)
 - [ ] [naive-bayes](./naive-bayes.md)
 - [ ] [statistics](./statistics.md)
 - [ ] [information-theory](./information-theory.md)
